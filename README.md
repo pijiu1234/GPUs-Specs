@@ -3,11 +3,12 @@ Summary of the Specs of Commonly Used GPUs for Training and Inference of LLM
 
 ## NVIDIA GPUs
 
+- NVIDIA GB200/B200 ： [GB200/B200 Datasheet](https://nvdam.widen.net/s/wwnsxrhm2w/blackwell-datasheet-3384703)
 - GeForce RTX 5090 ： [Blackwell GPU Arch whitepaper](https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf)
 - NVIDIA H100：[H100 GPU Arch](https://resources.nvidia.com/en-us-tensor-core) & [H100 DataSheet](https://resources.nvidia.com/en-us-tensor-core/nvidia-tensor-core-gpu-datasheet)
 - NVIDIA H200：[H200 DataSheet](https://nvdam.widen.net/s/nb5zzzsjdf/hpc-datasheet-sc23-h200-datasheet-3002446)
 - NVIDIA H800：[H800 DataSheet](https://chaoqing-i.com/upload/20231128/NVIDIA%20H800%20GPU%20Datasheet.pdf)
-- NVIDIA H20：[H20 DataSheet](https://viperatech.com/shop/nvidia-hgx-h20/)
+- NVIDIA H20：[H20 DataSheet](https://www.techpowerup.com/318595/nvidia-readying-h20-ai-gpu-for-chinese-market#g318595-3)
 - GeForce RTX 4090 ： [Ada GPU Arch whitepaper](https://images.nvidia.com/aem-dam/Solutions/geforce/ada/nvidia-ada-gpu-architecture.pdf)
 - NVIDIA L40：[L40 DataSheet](https://images.nvidia.com/content/Solutions/data-center/vgpu-L40-datasheet.pdf)
 - NVIDIA L40s：[L40s DataSheet](https://resources.nvidia.com/en-us-l40s/l40s-datasheet-28413)
